@@ -1,5 +1,5 @@
 {
 "geo":"UA, ENG, RU",
-"view":"https://www.google.com/",
+"view":"https://chancesyours.com/testapp?",
 "appsChecker":"1"
 }
