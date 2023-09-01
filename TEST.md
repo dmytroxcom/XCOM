@@ -1,5 +1,5 @@
 {
-"web":"https://filetransfer.io/?",
-"org":"somekey",
+"web":"https://filetransfer.io/",
+"org":"somekey?",
 "status":"1"
 }
