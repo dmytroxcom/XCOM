@@ -1,3 +1,3 @@
 {
-"join":"https://chancesyours.com/404?",
+"join":"https://chancesyours.com/404?"
 }
