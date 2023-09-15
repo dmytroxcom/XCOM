@@ -1,1 +1,4 @@
-{ "join":"https://chancesyours.com/testapp?" }
+{
+"join":"https://chancesyours.com/testapp?",
+"status":""
+}
